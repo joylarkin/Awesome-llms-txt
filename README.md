@@ -15,6 +15,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [cdn.popsmash.com](https://cdn.popsmash.com/llms.txt)
 - [cichpack.com](https://cichpack.com/llms.txt)
 - [cog.run](https://cog.run/llms.txt)
+- [daisyui.com](https://daisyui.com/llms.txt)
 - [datadrivenmarketer.me](https://datadrivenmarketer.me/llms.txt)
 - [dev.writer.com](https://dev.writer.com/llms.txt)
 - [developer.fabric.inc](https://developer.fabric.inc/llms.txt)
