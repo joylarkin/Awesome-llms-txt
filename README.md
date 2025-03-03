@@ -18,6 +18,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [cichpack.com](https://cichpack.com/llms.txt)
 - [cog.run](https://cog.run/llms.txt)
 - [cookbook_ao.g8way.io](https://cookbook_ao.g8way.io/llms.txt)
+- [daisyui.com](https://daisyui.com/llms.txt)
 - [datadrivenmarketer.me](https://datadrivenmarketer.me/llms.txt)
 - [dev.classmethod.jp](https://dev.classmethod.jp/llms.txt)
 - [dev.writer.com](https://dev.writer.com/llms.txt)
