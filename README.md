@@ -329,3 +329,7 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 - [www.zenml.io](https://www.zenml.io/llms.txt)
 - [www.zycus.com](https://www.zycus.com/llms.txt)
 - [wxt.dev](https://wxt.dev/knowledge/docs.txt)
+
+## Directories
+
+- [llms.txt hub](https://llmstxthub.com)
