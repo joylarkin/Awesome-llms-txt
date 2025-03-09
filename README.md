@@ -357,3 +357,5 @@ This list contains an index of llms.txt files hosted on various websites. Attach
 ## Directories
 
 - [llms.txt hub](https://llmstxthub.com)
+- [directory.llmstxt.cloud](https://directory.llmstxt.cloud)
+- [llmstxt.site](https://llmstxt.site)
